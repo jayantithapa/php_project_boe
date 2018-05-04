@@ -16,3 +16,4 @@ $res=mysqli_query($con,$sql);
  echo $attendence ;<br>
  echo $comment ;<br>
  ?>
+ lectse123 
